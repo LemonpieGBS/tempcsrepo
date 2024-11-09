@@ -1,0 +1,16 @@
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\bin\Debug\net8.0-windows\WFATest.exe
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\bin\Debug\net8.0-windows\WFATest.deps.json
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\bin\Debug\net8.0-windows\WFATest.runtimeconfig.json
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\bin\Debug\net8.0-windows\WFATest.dll
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\bin\Debug\net8.0-windows\WFATest.pdb
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\obj\Debug\net8.0-windows\WFATest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\obj\Debug\net8.0-windows\WFATest.AssemblyInfoInputs.cache
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\obj\Debug\net8.0-windows\WFATest.AssemblyInfo.cs
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\obj\Debug\net8.0-windows\WFATest.csproj.CoreCompileInputs.cache
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\obj\Debug\net8.0-windows\WFATest.dll
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\obj\Debug\net8.0-windows\refint\WFATest.dll
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\obj\Debug\net8.0-windows\WFATest.pdb
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\obj\Debug\net8.0-windows\WFATest.genruntimeconfig.cache
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\obj\Debug\net8.0-windows\ref\WFATest.dll
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\obj\Debug\net8.0-windows\WFATest.Form1.resources
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WFATest\obj\Debug\net8.0-windows\WFATest.csproj.GenerateResource.cache
